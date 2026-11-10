@@ -1,0 +1,34 @@
+End-User License Agreement (EULA) for Local Mobile IDE
+
+Copyright (c) 2026 [fabiodelbolgia-eng]
+Tutti i diritti riservati.
+
+Questo software ("Local Mobile IDE") viene fornito come software proprietario freeware. 
+Scaricando, installando o utilizzando l'applicazione (file .apk), accetti i termini di questa licenza.
+
+1. CONCESSIONE DELLA LICENZA
+L'autore concede all'utente il diritto personale, non esclusivo e non trasferibile di scaricare, 
+installare e utilizzare l'applicazione sui propri dispositivi Android per scopi personali o professionali.
+
+2. RESTRIZIONI
+Il codice sorgente di questa applicazione è chiuso (Closed Source). È severamente vietato:
+- Decodificare, decompilare, disassemblare o tentare in alcun modo di estrarre il codice sorgente dall'APK.
+- Modificare, adattare, tradurre o creare opere derivate basate su questo software.
+- Ridistribuire, vendere, affittare o sublicenziare l'applicazione o qualsiasi sua parte.
+- Rimuovere o alterare qualsiasi avviso di copyright o marchio registrato.
+
+3. PROPRIETÀ INTELLETTUALE
+L'applicazione, inclusi ma non limitati a design, logica, interfaccia e marchio, rimane di proprietà 
+esclusiva dell'autore. Questa licenza non concede alcun diritto di proprietà intellettuale.
+
+4. ESCLUSIONE DI GARANZIA (DISCLAIMER)
+IL SOFTWARE VIENE FORNITO "COSÌ COM'È" (AS IS), SENZA GARANZIE DI ALCUN TIPO, ESPRESSE O IMPLICITE, 
+INCLUSE MA NON LIMITATE A GARANZIE DI COMMERCIABILITÀ, IDONEITÀ PER UNO SCOPO PARTICOLARE E NON VIOLAZIONE. 
+In nessun caso l'autore sarà ritenuto responsabile per qualsiasi reclamo, danno o altra responsabilità 
+(inclusa la perdita di dati, bug nel codice o malfunzionamenti di server esterni) derivante dall'uso 
+del software. L'utente si assume l'intera responsabilità per l'utilizzo dell'applicazione.
+
+5. SERVIZI DI TERZE PARTI (API, Git, SSH)
+L'applicazione permette la connessione a servizi di terze parti tramite chiavi API fornite dall'utente 
+(es. Google Gemini, OpenAI, GitHub). L'autore non è responsabile per i costi, la sicurezza, l'uso 
+o le policy dei servizi di tali provider esterni.
