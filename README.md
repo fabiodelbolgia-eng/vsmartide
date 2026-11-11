@@ -38,3 +38,10 @@ Trattandosi di un'app scaricata fuori dal Google Play Store, il tuo smartphone A
 1. Apri l'app e vai nelle **Impostazioni**.
 2. Incolla la tua **API Key** (es. Gemini o OpenAI).
 3. Vai nella sezione **File**, crea un nuovo progetto e inizia a chattare con l'agente!
+
+---
+
+## 📜 Note Legali & Privacy
+* 🔒 **[Informativa sulla Privacy (Privacy Policy)](PRIVACY_POLICY.md)**
+* ⚖️ **[Termini di Servizio ed EULA (Terms of Service)](TERMS_OF_SERVICE.md)**
+* 📄 **[Licenza Software (Proprietary)](LICENSE)**
